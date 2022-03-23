@@ -1,4 +1,5 @@
 # ゼロから作るDeep Learning
+https://github.com/oreilly-japan/deep-learning-from-scratch
 ## 1章 Python入門
 ## 2章 パーセプトロン
 ## 3章 ニューラルネットワーク
